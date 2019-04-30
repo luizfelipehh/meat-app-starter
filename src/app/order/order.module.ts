@@ -1,4 +1,3 @@
-import { ngModuleJitUrl } from "@angular/compiler";
 import { NgModule } from "@angular/core";
 import { OrderComponent } from "./order.component";
 import { OrderItemsComponent } from "./order-items/order-items.component";
